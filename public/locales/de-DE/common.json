@@ -11,12 +11,11 @@
     "regionalSettings": "Regionale Einstellungen",
     "language": "Sprache",
     "languageDrawer": "Sprachschublade umschalten"
-
   },
   "footer": {
-    "aboutUs": "über uns",
-    "description": "Unser Unternehmen ist auf die Entwicklung fortschrittlicher Technologien für eine Vielzahl von Branchen spezialisiert. Wir verwenden modernste Techniken und Algorithmen, um intelligente Systeme zu erstellen, die Unternehmen dabei helfen können, Aufgaben zu automatisieren, die Effizienz zu verbessern und Innovationen voranzutreiben.",
-    "powerBy": "Unterstützt von"
+    "aboutUs": "über mich",
+    "description": "AJ Partners Ltd. ist ein Unternehmen für die Erstellung und Entwicklung von Websites, das von Abel Rogers gegründet wurde, der über mehr als 20 Jahre Erfahrung in der Branche verfügt. Mit dem Fokus auf die Bereitstellung von Ergebnissen und das Kundenmanagement ist AJ Partners Ltd. stolz darauf, ein zuverlässiger und effizienter Partner für Unternehmen zu sein, die eine starke Online-Präsenz aufbauen möchten.",
+    "powerBy": "Gebaut von"
   },
   "notFound": {
     "title": "Seite nicht gefunden",
